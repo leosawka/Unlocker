@@ -1,0 +1,14 @@
+C:\Users\Sawka\GitHub\unlocker\Unlocker\setup\SetupContextMenu\bin\Debug\net9.0\SetupContextMenu.exe
+C:\Users\Sawka\GitHub\unlocker\Unlocker\setup\SetupContextMenu\bin\Debug\net9.0\SetupContextMenu.deps.json
+C:\Users\Sawka\GitHub\unlocker\Unlocker\setup\SetupContextMenu\bin\Debug\net9.0\SetupContextMenu.runtimeconfig.json
+C:\Users\Sawka\GitHub\unlocker\Unlocker\setup\SetupContextMenu\bin\Debug\net9.0\SetupContextMenu.dll
+C:\Users\Sawka\GitHub\unlocker\Unlocker\setup\SetupContextMenu\bin\Debug\net9.0\SetupContextMenu.pdb
+C:\Users\Sawka\GitHub\unlocker\Unlocker\setup\SetupContextMenu\obj\Debug\net9.0\SetupContextMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sawka\GitHub\unlocker\Unlocker\setup\SetupContextMenu\obj\Debug\net9.0\SetupContextMenu.AssemblyInfoInputs.cache
+C:\Users\Sawka\GitHub\unlocker\Unlocker\setup\SetupContextMenu\obj\Debug\net9.0\SetupContextMenu.AssemblyInfo.cs
+C:\Users\Sawka\GitHub\unlocker\Unlocker\setup\SetupContextMenu\obj\Debug\net9.0\SetupContextMenu.csproj.CoreCompileInputs.cache
+C:\Users\Sawka\GitHub\unlocker\Unlocker\setup\SetupContextMenu\obj\Debug\net9.0\SetupContextMenu.dll
+C:\Users\Sawka\GitHub\unlocker\Unlocker\setup\SetupContextMenu\obj\Debug\net9.0\refint\SetupContextMenu.dll
+C:\Users\Sawka\GitHub\unlocker\Unlocker\setup\SetupContextMenu\obj\Debug\net9.0\SetupContextMenu.pdb
+C:\Users\Sawka\GitHub\unlocker\Unlocker\setup\SetupContextMenu\obj\Debug\net9.0\SetupContextMenu.genruntimeconfig.cache
+C:\Users\Sawka\GitHub\unlocker\Unlocker\setup\SetupContextMenu\obj\Debug\net9.0\ref\SetupContextMenu.dll
