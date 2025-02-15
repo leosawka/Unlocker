@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KL9fV7uY6cc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sawka\\GitHub\\unlocker\\Unlocker\\Unlocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sawka\\.nuget\\packages\\system.codedom\\9.0.2\\system.codedom.9.0.2.nupkg.sha512",
+    "C:\\Users\\Sawka\\.nuget\\packages\\system.management\\9.0.2\\system.management.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
